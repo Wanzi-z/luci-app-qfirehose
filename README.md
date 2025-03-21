@@ -43,6 +43,10 @@ opkg install luci-app-qfirehose_1.0.0_all.ipk
 5. Click "Flash" to start the firmware flashing process
 6. Monitor the progress through the log window
 
+
+https://github.com/user-attachments/assets/2a606b19-6bcb-4328-9aaa-3905fee269a2
+
+
 ## License
 
 This project is licensed under the GPLv3 License - see the LICENSE file for details.

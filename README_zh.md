@@ -43,6 +43,11 @@ opkg install luci-app-qfirehose_1.0.0_all.ipk
 5. 点击"烧写"开始固件烧写过程
 6. 通过日志窗口监控进度
 
+
+https://github.com/user-attachments/assets/9247c8ed-72e0-4fe3-86cf-9d1cbbf443c7
+
+
+
 ## 许可证
 
 本项目采用GPLv3许可证 - 详见LICENSE文件
